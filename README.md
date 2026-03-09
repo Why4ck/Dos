@@ -8,9 +8,9 @@ A simple tool for testing DoS attacks (for educational purposes only!)
 - Super attack (multi-threaded attack)
 
 ## Installation and Run
-git clone https://github.com/Why4ck/Simple_dos.git
+git clone https://github.com/Why4ck/Dos.git
 
-cd Simple_dos
+cd Dos
 
 python -m venv venv
 
