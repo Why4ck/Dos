@@ -8,12 +8,14 @@ A simple tool for testing DoS attacks (for educational purposes only!)
 - Super attack (multi-threaded attack)
 
 ## Installation and Run
-git clone https://github.com/Why4ck/Dos.git
 
+git clone https://github.com/Why4ck/Dos.git
 cd Dos
 
 python -m venv venv
-
 venv\Scripts\activate
+
+pip install aiohttp
+pip install colorama
 
 python main.py
