@@ -8,7 +8,6 @@ A simple tool for testing DoS attacks (for educational purposes only!)
 - Super attack (multi-threaded attack)
 
 ## Installation and Run
-bash
 git clone https://github.com/Why4ck/Dos.git
 cd Dos
 python -m venv venv
