@@ -1,0 +1,13 @@
+[project]
+name = "why4ck"
+version = "0.1.0"
+description = "Dos tool"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["why4ck*"]
+exclude = ["installer*"]
+
+[project.scripts]
+why4ck = "why4ck:cli"
