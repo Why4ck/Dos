@@ -7,9 +7,9 @@ A simple tool for testing DoS attacks (for educational purposes only!)
 
 ## Run
 
-Download -> https://github.com/Why4ck/Dos/releases
-run installer.exe
-run cmd -> write why4ck
+Download -> https://github.com/Why4ck/Dos/releases        
+run installer.exe               
+run cmd -> write why4ck         
 
 use dos tool!
 
