@@ -13,5 +13,5 @@ run cmd -> write why4ck
 
 use dos tool!
 
-example for use (more details in cli tool): why4ck dos --url "http://127.0.0.1" --session 10 --concurrency 1 --size 15
+example for use (more details in cli tool): why4ck dos --url "http://127.0.0.1" --session 10 --concurrency 1 --size 15      
 10 session, 1 request size - 10 kb
